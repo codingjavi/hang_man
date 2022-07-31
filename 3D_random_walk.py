@@ -42,7 +42,7 @@ def randomwalk(n):
 
     return (x,y,z)
 
-x_data, y_data, z_data = randomwalk(10) #the function creates 2 outputs and we're saving these out puts here
+x_data, y_data, z_data = randomwalk(10) #the function creates 3 outputs and we're saving these out puts here
 
 print (x_data) #They're just arrays with values instea of 0s
 print (y_data)
